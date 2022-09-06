@@ -5,7 +5,7 @@ Task 4. Soil erosion detection
 files:
 
 t4_data.ipynb     - jupyter notebook with data analysis, 
-requires files "T36UXV_20200406T083559_TCI_10m.jp2" and "masks/Masks_T36UXV_20190427.shp"
+requires files "T36UXV_20200406T083559_TCI_10m.jp2" and "masks/Masks_T36UXV_20190427.shp";
 outputs file "mask.jp2"
         
         
