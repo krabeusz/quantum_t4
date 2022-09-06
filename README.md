@@ -9,7 +9,7 @@ requires files "T36UXV_20200406T083559_TCI_10m.jp2" and "masks/Masks_T36UXV_2019
 outputs file "mask.jp2"
         
         
-t4_modeling.py    - script for model training
+t4_modeling.py    - script for model training;
 requires files "T36UXV_20200406T083559_TCI_10m.jp2" and "mask.jp2"
       
       
