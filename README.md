@@ -14,5 +14,3 @@ requires files "T36UXV_20200406T083559_TCI_10m.jp2" and "mask.jp2"
       
       
 Quantum_recrutation_t4_report.pdf   - solution report
-
-files "T36UXV_20200406T083559_TCI_10m.jp2" and "masks/Masks_T36UXV_20190427.shp"
